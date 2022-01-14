@@ -1,5 +1,8 @@
 API Reference
 =============
 
-.. toctree:: 
-    modules/modules
+.. autosummary::
+    :toctree:
+    :recursive:
+
+    my_nested_package
